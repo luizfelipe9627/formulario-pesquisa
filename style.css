@@ -1,0 +1,21 @@
+body {
+  font-size: 1.25rem;
+  font-family: sans-serif;
+  margin: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+input {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  min-width: 50vw;
+  max-width: 100%;
+}

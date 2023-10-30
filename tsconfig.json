@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", // O target é a versão do JavaScript que o TypeScript vai compilar.
+    "strict": true // Aplica o modo estrito do TypeScript.
+  }
+}
