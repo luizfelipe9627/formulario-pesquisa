@@ -1,7 +1,7 @@
-# Dogs
+# Formulário de Pesquisa
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)   
 
-<img src="https://github.com/luizfelipe9627/dogs/blob/main/apresentacao.png" alt="Apresentação do Form">
+<img src="https://github.com/luizfelipe9627/formulario-pesquisa/blob/main/apresentacao.png" alt="Apresentação do Form">
 
 ## 📄 Descrição
 Formulário de pesquisa que armazena as informações digitadas no localStorage do navegador, assim quando o usuário recarregar a página as informações ainda estarão lá.
