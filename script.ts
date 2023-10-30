@@ -2,7 +2,10 @@
 interface UserData {
   nome?: string;
   email?: string;
-  cpf?: string;
+  telefone?: string;
+  endereco?: string;
+  cidade?: string;
+  estado?: string;
 }
 
 // Criado uma interface chamada Window, com o atributo UserData do tipo any.
